@@ -8,15 +8,12 @@ Currently working on my own projects and learning new things along the way.
 
 ### Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,docker,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,docker,react,git&theme=dark)](https://skillicons.dev)
 
 ### My projects
 
 Most of my projects are things I wanted to create for myself. I like experimenting with new ideas and making them real.
 
-https://github.com/MarzVoid/Dark-Oak
+[![Dark-Oak](https://github-readme-stats.vercel.app/api/pin/?username=MarzVoid&repo=Dark-Oak&theme=github_dark)](https://github.com/MarzVoid/Dark-Oak)
 
-https://github.com/MarzVoid/Spruce
-
-### Pronouns
-He/him
+[![Spruce](https://github-readme-stats.vercel.app/api/pin/?username=MarzVoid&repo=Spruce&theme=github_dark)](https://github.com/MarzVoid/Spruce)
