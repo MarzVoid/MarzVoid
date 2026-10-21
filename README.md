@@ -1,3 +1,4 @@
+
 # Hi, I am Dmytrii!
 
 I'm a beginner full-stack developer. I started with HTML and CSS and now I like making my own apps and projects.
@@ -10,10 +11,16 @@ Currently working on my own projects and learning new things along the way.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,docker,react,git&theme=dark)](https://skillicons.dev)
 
-### My projects
 
-Most of my projects are things I wanted to create for myself. I like experimenting with new ideas and making them real.
+<h3>My projects</h3>
 
-[![Dark-Oak](https://github-readme-stats.vercel.app/api/pin/?username=MarzVoid&repo=Dark-Oak&theme=github_dark)](https://github.com/MarzVoid/Dark-Oak)
+<p>Most of my projects are things I wanted to create for myself. I like experimenting with new ideas and making them real.</p>
 
-[![Spruce](https://github-readme-stats.vercel.app/api/pin/?username=MarzVoid&repo=Spruce&theme=github_dark)](https://github.com/MarzVoid/Spruce)
+<div>
+  <a href="https://github.com/MarzVoid/Dark-Oak">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MarzVoid&repo=Dark-Oak&theme=github_dark&title_color=d4d4d8" width="49%" />
+  </a>
+  <a href="https://github.com/MarzVoid/Spruce">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=MarzVoid&repo=Spruce&theme=github_dark&title_color=d4d4d8" width="49%" />
+  </a>
+</div>
