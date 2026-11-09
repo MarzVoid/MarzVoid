@@ -1,7 +1,7 @@
 
 # Hi, I am Dmytrii!
 
-I'm a beginner full-stack developer. I started with HTML and CSS and now I like making my own apps and projects.
+I'm a beginner full-stack developer.
 
 I work with different programming languages and technologies. I mostly enjoy creating apps, tools and things that I can actually use.
 
